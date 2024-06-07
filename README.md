@@ -12,8 +12,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowsadi&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" height="250" width="250" alt="Github Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowsadi&theme=transparent" height="250" width="270" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowsadi&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" height="250" width="280" alt="Github Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowsadi&theme=transparent" height="250" width="300" alt="GitHub Streak">
 </div>
 
 <img src="https://raw.githubusercontent.com/ShadowsAdi/ShadowsAdi/output/github-snake-dark.svg" height="250" alt="Snake Animation">
