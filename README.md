@@ -1,16 +1,39 @@
-## Hi there 👋
+## <img src="https://raw.githubusercontent.com/ShadowsAdi/ShadowsAdi/output/banner2.png"/>
 
-<!--
-**ShadowsAdi/ShadowsAdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=shadowsadi&label=Views&abbreviated=true&style=plastic&color=brightgreen)
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&pause=1000&color=1DBFF7&random=true&width=435&lines=Interseted+in+self-developing+and+helping+others.;I+love+a+good+challenge.;Counter-Strike+player+and+developer.;Indie+games+enjoyer." alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?type=horizontal&theme=algolia" alt="Readme Quotes">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowsadi&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" height="250" width="470" alt="Github Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowsadi&theme=transparent" height="250" width="500" alt="GitHub Streak">
+</div>
+
+<img src="https://raw.githubusercontent.com/ShadowsAdi/ShadowsAdi/output/github-snake-dark.svg" height="250" alt="Snake Animation">
+<div>
+    <img src="https://github-profile-trophy.vercel.app/?username=shadowsadi&theme=algolia&column=4&row=2" alt="Trophies" align="left">
+    <img style="margin-right: auto" src="https://spotify-recently-played-readme.vercel.app/api?user=ieawb61vvdp9oqaimihzgewae&count=5&width=300" height="250" align="right" alt="Spotify Recent played">
+  <p align="center">
+  💚 My hobbies
+    <br>
+    <br>
+  💻 IT & Software
+    <br>
+  💣 Science
+    <br>
+  💿 Machine learning
+    <br>
+  🎮 Gaming
+    <br>
+  📖 Reading
+    <br>
+  🎧 Music
+    <br>
+  🎸 Playin' Music
+  </p>
+</div>
