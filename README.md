@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/ShadowsAdi/ShadowsAdi/output/banner2.png"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=shadowsadi&label=Views&abbreviated=true&style=plastic&color=brightgreen)
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&pause=1000&color=1DBFF7&random=true&width=435&lines=Interseted+in+self-developing+and+helping+others.;I+love+a+good+challenge.;Counter-Strike+player+and+developer.;Indie+games+enjoyer." alt="Typing SVG" /></a>
 </p>
 
