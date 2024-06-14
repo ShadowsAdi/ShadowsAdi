@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowsadi&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" height="250" width="350" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowsadi&show_icons=true&theme=transparent&include_all_commits=true" height="250" width="350" alt="Github Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowsadi&theme=transparent" height="250" width="370" alt="GitHub Streak">
 </div>
 
