@@ -19,7 +19,6 @@
 <img src="https://raw.githubusercontent.com/ShadowsAdi/ShadowsAdi/output/github-snake-dark.svg" height="250" alt="Snake Animation">
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=shadowsadi&theme=algolia&column=4&row=2" alt="Trophies" align="left">
-    <img style="margin-right: auto" src="https://spotify-recently-played-readme.vercel.app/api?user=ieawb61vvdp9oqaimihzgewae&count=5&width=300" height="250" align="right" alt="Spotify Recent played">
   <p align="center">
   💚 My hobbies
     <br>
